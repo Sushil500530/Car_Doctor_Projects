@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import person from '../../assets/images/about_us/person.jpg'
 import perse from '../../assets/images/about_us/parts.jpg'
 
